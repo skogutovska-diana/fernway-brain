@@ -1,0 +1,35 @@
+# CODEOWNERS for the Fernway Brain.
+# Every path is owned by @skogutovska-diana for now.
+# The comments name the proposed real owner (founders to confirm).
+# Later rules override earlier ones.
+
+# Default. Proposed owner: Hana Kim (repo steward)
+*                         @skogutovska-diana
+
+# Root docs. Proposed owner: Hana Kim (repo steward)
+/CLAUDE.md                @skogutovska-diana
+/README.md                @skogutovska-diana
+/CONTRIBUTING.md          @skogutovska-diana
+/glossary.md              @skogutovska-diana
+/open-questions.md        @skogutovska-diana
+
+# Company facts and team. Proposed owner: Hana Kim
+# Pricing docs in this folder. Proposed owner: Mara Voss
+/company/                 @skogutovska-diana
+
+# Processes. Proposed owners per file:
+#   onboarding: Lukas Weber
+#   inbound leads: Priya Raman
+#   support escalation: Jonas Berg
+#   billing: Hana Kim
+#   releases: Ivan Petrenko
+/processes/               @skogutovska-diana
+
+# Runbooks. Proposed owner: the process owner named in each runbook
+/runbooks/                @skogutovska-diana
+
+# Automations register. Proposed owner: Ivan Petrenko
+/agents/                  @skogutovska-diana
+
+# Repo config and review rules. Proposed owner: Hana Kim (repo steward)
+/.github/                 @skogutovska-diana
