@@ -16,6 +16,16 @@
 # Company facts and team. Proposed owner: Hana Kim
 # Pricing docs in this folder. Proposed owner: Mara Voss
 /company/                 @skogutovska-diana
+# Proposed owner: Hana Kim
+/company/overview.md                      @skogutovska-diana
+# Proposed owner: Mara Voss
+/company/pricing.md                       @skogutovska-diana
+# Proposed owner: Hana Kim
+/company/team-and-owners.md               @skogutovska-diana
+# Proposed owner: Hana Kim (tooling admin)
+/company/tools.md                         @skogutovska-diana
+# Proposed owner: Hana Kim
+/company/team-rules.md                    @skogutovska-diana
 
 # Processes. Proposed owners per file:
 #   onboarding: Lukas Weber
@@ -24,12 +34,30 @@
 #   billing: Hana Kim
 #   releases: Ivan Petrenko
 /processes/               @skogutovska-diana
+# Proposed owner: Lukas Weber
+/processes/customer-onboarding.md         @skogutovska-diana
+# Proposed owner: Priya Raman
+/processes/inbound-leads.md               @skogutovska-diana
+# Proposed owner: Jonas Berg
+/processes/support-escalation.md          @skogutovska-diana
+# Proposed owner: Hana Kim
+/processes/billing.md                     @skogutovska-diana
+# Proposed owner: Ivan Petrenko
+/processes/releases.md                    @skogutovska-diana
 
 # Runbooks. Proposed owner: the process owner named in each runbook
 /runbooks/                @skogutovska-diana
+# Proposed owner: Lukas Weber (importer workaround section: Noor Haddad)
+/runbooks/01-onboard-a-new-customer.md    @skogutovska-diana
+# Proposed owner: Jonas Berg
+/runbooks/02-escalate-a-support-ticket.md @skogutovska-diana
 
 # Automations register. Proposed owner: Ivan Petrenko
 /agents/                  @skogutovska-diana
+# Proposed owner: Ivan Petrenko
+/agents/n8n-workflows.md                  @skogutovska-diana
+# Proposed owner: Jonas Berg (UNKNOWN — not named in source)
+/agents/claude-support-drafts.md          @skogutovska-diana
 
 # Repo config and review rules. Proposed owner: Hana Kim (repo steward)
 /.github/                 @skogutovska-diana
